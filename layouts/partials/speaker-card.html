@@ -1,0 +1,28 @@
+{{/* speaker-card: versión simple sin procesamiento de imagen para evitar images.Filter */}}
+{{ $profileUrl := .profileUrl }}
+{{ $avatar := .avatarResource }}
+{{ $name := .name }}
+{{ $desc := .description }}
+{{ $linkedin := .linkedinUrl }}
+{{ $x := .xUrl }}
+{{ $companyUrl := .companyUrl }}
+
+<div class="speaker-card">
+  <a href="{{ $profileUrl | relURL }}" class="block">
+    {{ if $avatar }}
+      <img src="{{ $avatar.RelPermalink }}" alt="{{ $name }}" class="w-48 h-48 object-cover rounded-full mx-auto" />
+    {{ else }}
+      <svg class="w-48 h-48 mx-auto rounded-full bg-gray-200" viewBox="0 0 24 24" aria-hidden="true">
+        <circle cx="12" cy="8" r="4"></circle>
+        <path d="M4 20c0-4 4-6 8-6s8 2 8 6"></path>
+      </svg>
+    {{ end }}
+    <h3 class="text-xl font-semibold text-center mt-4">{{ $name }}</h3>
+    {{ if $desc }}<p class="text-center text-gray-600">{{ $desc }}</p>{{ end }}
+  </a>
+  <div class="flex items-center justify-center gap-3 mt-2">
+    {{ if $linkedin }}<a href="{{ $linkedin }}" target="_blank" rel="noopener">LinkedIn</a>{{ end }}
+    {{ if $x }}<a href="{{ $x }}" target="_blank" rel="noopener">X</a>{{ end }}
+    {{ if $companyUrl }}<a href="{{ $companyUrl }}" target="_blank" rel="noopener">Company</a>{{ end }}
+  </div>
+</div>

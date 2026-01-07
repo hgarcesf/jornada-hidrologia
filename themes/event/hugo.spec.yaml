@@ -1,0 +1,38 @@
+###
+### THIS CONFIGURATION FILE IS FOR TESTING PURPOSES ONLY.
+###
+
+defaultContentLanguage: en
+
+languages:
+    de:
+        menus:
+            secondary:
+                - identifier: about
+                  pageRef: /about
+                  params:
+                      description: Erfahren Sie wer wir sind uns was uns antreibt.
+                - identifier: code-of-conduct
+                  pageRef: /code-of-conduct
+                  name: Verhaltens&shy;kodex
+
+params:
+    themes:
+        event:
+            sessionizeId: oppyjope
+            title: III Jornada de Hidrología
+            shortTitle: testcon
+            startDate: 2045-06-01
+            endDate: 2045-06-03
+            location: Pucón, Región de La Araucanía
+            address:
+                - Building
+                - Street
+                - City
+                - Country
+            callToAction:
+                enableBanner: true
+            featuredSessions:
+                - '729576'
+                - '729579'
+            trackCategoryTitle: Track

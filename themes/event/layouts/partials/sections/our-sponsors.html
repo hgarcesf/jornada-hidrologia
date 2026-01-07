@@ -1,0 +1,66 @@
+{{/* layouts/partials/sections/our-sponsors.html */}}
+
+{{ $sponsors := .sponsors }}
+{{ $kind := or .kind "sponsors" }} {{/* sponsors | partners | organizers */}}
+
+{{/* Claves i18n específicas por tipo */}}
+{{ $headingKey    := printf "%s_section.heading"    $kind }}
+{{ $subheadingKey := printf "%s_section.subheading" $kind }}
+
+{{/* Heading: primero el específico; si no existe, usa sponsors_section.heading */}}
+{{ $heading := T $headingKey }}
+{{ if eq $heading $headingKey }}
+  {{ $heading = T "sponsors_section.heading" }}
+{{ end }}
+
+{{/* Subheading:
+     - Si existe <kind>_section.subheading, úsalo.
+     - Si NO existe:
+         * kind == sponsors -> usa sponsors_section.subheading
+         * otro kind        -> no mostrar subheading (queda vacío)
+*/}}
+{{ $subheading := T $subheadingKey }}
+{{ if eq $subheading $subheadingKey }}
+  {{ if eq $kind "sponsors" }}
+    {{ $subheading = T "sponsors_section.subheading" }}
+  {{ else }}
+    {{ $subheading = "" }}
+  {{ end }}
+{{ end }}
+
+{{/* Filtra solo items válidos */}}
+{{ $validSponsors := slice }}
+{{ range $sponsor := $sponsors }}
+  {{ if and $sponsor.logo $sponsor.url }}
+    {{ $validSponsors = $validSponsors | append $sponsor }}
+  {{ end }}
+{{- end }}
+
+{{ if gt (len $validSponsors) 0 }}
+  <div class="section-container">
+    <section class="section section--short our-sponsors">
+      <h1 class="heading heading--highlighted heading--centered">
+        {{ $heading }}
+      </h1>
+
+      {{ if $subheading }}
+        <h2 class="heading heading--2 heading--centered">
+          {{ $subheading }}
+        </h2>
+      {{ end }}
+
+      <ul class="our-sponsors__list">
+        {{ range $sponsor := $validSponsors }}
+          <li class="our-sponsors__list-item">
+            {{- partial "sponsor-card.html" (dict
+              "companyUrl"   $sponsor.url
+              "logoResource" $sponsor.logo
+              "name"         $sponsor.name
+            ) }}
+          </li>
+        {{- end }}
+      </ul>
+    </section>
+  </div>
+{{ end }}
+

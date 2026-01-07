@@ -1,0 +1,10 @@
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.126.0"
+[params.themes.event.images]
+googleAnalytics = "G-6ECDMECTPM"
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
