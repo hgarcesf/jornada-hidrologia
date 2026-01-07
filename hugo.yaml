@@ -307,8 +307,8 @@ params:
                 primary: '#0d81be'
                 primaryDarker: '#143e8b'
                 track: '#15B8CA'
-ignoreLogs: ['warning-partial-superfluous-prefix']
-ignoreLogs: ['warning-goldmark-raw-html']
+ignoreLogs: ['warning-partial-superfluous-prefix', 'warning-goldmark-raw-html']
+
 markup:
   goldmark:
     renderer:
