@@ -76,10 +76,10 @@
                         </div>
                     </div>
 
-<!--                  {{- partial "cta/button.html" (dict
+                  {{- partial "cta/button.html" (dict
                     "eventbriteId" .Site.Params.themes.event.callToAction.eventbrite.eventId
-                    "ctaUrl" "https://docs.google.com/forms/d/e/1FAIpQLSfeHfWT0ompzi5ozaJVz1LV0ToXlCkRIEeQS4LhZyBTZJRDCg/viewform?usp=header"
-                  ) }} --->
+                    "ctaUrl" .Site.Params.themes.event.callToAction.other.url
+                  ) }}
                 </nav>
             </div>
         </header>

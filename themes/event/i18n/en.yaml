@@ -3,7 +3,7 @@ countdown.hours: horas
 countdown.minutes: minutos
 countdown.seconds: segundos
 cta_banner.message: Envío de abstracts hasta el 28 de noviembre!
-#cta_button.get_ticket: Regístrate y/o envía tu abstract
+cta_button.get_ticket: Revisa el programa actualizado!
 cta_section.heading: Inspira, comparte y transforma la manera en que entendemos los recursos hídricos
 #cta_section.subheading: Regístrate ahora!
 cta_section.message: |
@@ -63,9 +63,9 @@ event_highlights_section.number_of_sessions:
 event_highlights_section.number_of_days:
     one: '{{ . }} días'
     other: '{{ . }} días'
-speaker_page.sessions_by: Sessions by
-session_page.further_sessions: Further Sessions
-session_page.further_sessions_from: Further Sessions from
+speaker_page.sessions_by: Sessiones
+session_page.further_sessions: Otras sesiones
+session_page.further_sessions_from: Otras sesiones
 carousel.button_next: Siguiente
 carousel.button_previous: Anterior
-session_categories.label: Session Categories
+session_categories.label: Categoría de sesiones
