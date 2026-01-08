@@ -1,9 +1,9 @@
 ---
-title: "Normas para presentadores"
+title: "Instrucciones para presentadores"
 type: page
 layout: default
 ---
-# Normas para presentadores
+# Instrucciones para presentadores
 
 
 ## Presentaciones en modalidad póster

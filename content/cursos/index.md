@@ -3,11 +3,11 @@ title: "Cursos"
 type: page
 layout: default
 ---
-# Cursos confirmados
+# Cursos técnicos
 
 Para la jornada de la mañana del miércoles 21 de enero, nos complace confirmar la realización de los siguientes cursos técnicos:
 
-## Curso 1: *GIRH, Resiliencia y Seguridad Hídrica: Cómo Reconciliar Conceptos en la Gestión Real de las Cuencas*
+### Curso 1: *GIRH, Resiliencia y Seguridad Hídrica: Cómo Reconciliar Conceptos en la Gestión Real de las Cuencas*
 ##### Presentadora: Pilar Barría (Universidad de Chile)
 **Horario**: 09:15 - 11:00
 
@@ -17,7 +17,7 @@ Sin embargo, este tránsito hacia la GIRH plantea desafíos sustantivos para qui
 
 La sesión revisará el marco normativo vigente y sus implicancias para la nueva institucionalidad del agua, explorará los futuros cambios que se discuten actualmente y analizará cómo puede avanzarse en la reconciliación conceptual y práctica entre GIRH, resiliencia y seguridad hídrica, especialmente desde la perspectiva de la modelación aplicada a cuencas.
 
-## Curso 2a: Excelencia en Medición Hidrométrica: De la Teoría a la Práctica con Baja Incertidumbre
+### Curso 2a: Excelencia en Medición Hidrométrica: De la Teoría a la Práctica con Baja Incertidumbre
 ##### Presentador: Rafael Pérez (AQUAFLOW)
 **Horario**: 11:30 - 13:00
 
@@ -28,7 +28,7 @@ Los proyectos o la gestión del agua requieren datos hidrométricos de la más a
 
 Esta tecnología nos permite realizar mediciones seguras, continuas y no intrusivas, incluso en condiciones de caudal elevado. En esta actividad teórico-práctica, compartiremos esta experiencia acumulada. Le guiaremos desde los fundamentos de la hidrometría hasta la implementación avanzada en campo, con demostraciones reales y análisis de casos de estudio.
 
-## Curso 2b: Estimación de recursos hídricos en proyectos de litio
+### Curso 2b: Estimación de recursos hídricos en proyectos de litio
 ##### Presentador: Diego Ojeda (Montgomery & Associates Chile)
 **Horario**: 11:30 - 13:00
 

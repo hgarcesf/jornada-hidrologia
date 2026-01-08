@@ -114,10 +114,10 @@ params:
         - logos/medicon-512.jpg
     themes:
         event:
-            sessionizeId: job8uaji #wqhgroi8 #oppyjope API HGF
+            sessionizeId: gz9t70l2
             title: III Jornada de Hidrología
-            shortTitle:
-            startDate: 2026-01-21 08:30:00 # fecha envio abstract
+            shortTitle: Inicio
+            startDate: 2026-01-21 08:30:00
             endDate: 2026-01-23
             address:
                 - Caupolicán 78
@@ -132,7 +132,7 @@ params:
                 eventbrite:
 #                    eventId: 976108886957
                 other:
-                    url: "https://drive.google.com/file/d/1fbuVlle1Aa-Eo2JY3D6v4YO_iXIEeEzv/view?usp=drive_link"
+                    url: "https://drive.google.com/file/d/19sdz2B6TebM1uviR-5Fs3DAGlsRW4nWP/view?usp=sharing"
                 enableBanner: true
 #            socialLinks:
 #                xUrl: https://x.com/medialesson
@@ -167,7 +167,7 @@ params:
                   url: https://eoc.udp.cl/
                   name: 'UDP'
             organizers:
-                - name: UFRO – Ingeniería
+                - name: UFRO - Ingeniería
                   url: https://www.ufro.cl
                   logo: logos/organizadores-logo_UFRO.png
                 - name: Kimün-Ko
