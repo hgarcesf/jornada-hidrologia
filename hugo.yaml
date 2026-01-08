@@ -22,6 +22,9 @@ languages:
 #                - identifier: code_of_conduct
 #                  pageRef: /code-of-conduct
 #                  weight: 60
+                - identifier: cursos
+                  pageRef: /cursos
+                  weight: 40
                 - identifier: sponsors
                   pageRef: /sponsors
                   weight: 50
