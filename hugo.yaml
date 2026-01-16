@@ -132,7 +132,7 @@ params:
                 eventbrite:
 #                    eventId: 976108886957
                 other:
-                    url: "https://drive.google.com/file/d/1P-CNjx2YkWf-aRAGqg6UyY0n5yGuA4wA/view?usp=sharing"
+                    url: "https://drive.google.com/file/d/1w5VmZ-Lwz8llZg0Xa6hixNjBjw6RHKeh/view?usp=sharing"
                 enableBanner: true
 #            socialLinks:
 #                xUrl: https://x.com/medialesson
@@ -153,6 +153,9 @@ params:
                 - logo: logos/auspiciadores-IECOM_Logo.png
                   url: "https://"
                   name: 'IECOM'
+                - logo: logos/auspiciadores-Vertientes_de_Pucon.png
+                  url: "https://www.vertientesdepucon.com/"
+                  name: "Vertientes de Pucón"
             partners:
                 - logo: logos/patrocinadores-IAHS-logo.png
                   url: https://iahs.info/
