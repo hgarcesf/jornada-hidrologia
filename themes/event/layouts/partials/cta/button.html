@@ -1,5 +1,8 @@
 {{ $input := . }}
 
+{{/* Optional label (string). Fallback to i18n key. */}}
+{{- $ctaLabel := (or $input.ctaMsg (T "cta_button.get_ticket")) -}}
+
 {{- if $input.eventbriteId }}
     {{/* Ensure a unique ID for each button on the page. */}}
     {{- if not (page.Scratch.Get "cta_eventbrite_instance") }}
@@ -8,9 +11,8 @@
     {{- $buttonId := (printf "eventbrite-widget-modal-trigger-%d" (page.Scratch.Get "cta_eventbrite_instance")) }}
     {{- page.Scratch.Add "cta_eventbrite_instance" 1 }}
 
-
     <button id="{{ $buttonId }}" type="button" class="button button--outlined {{ .buttonClass }}" style="display: none;">
-        {{ T "cta_button.get_ticket" }}
+        {{ $ctaLabel }}
     </button>
 
     {{/* Load Eventbrite script once per page. */}}
@@ -39,11 +41,12 @@
 
 {{ define "partials/inline/cta/link.html" }}
   {{ $input := . }}
+  {{- $ctaLabel := (or $input.ctaMsg (T "cta_button.get_ticket")) -}}
   <a class="button button--outlined"
      href="{{ $input.url | safeURL }}"
      {{ with $input.target }}target="{{ . }}"{{ else }}target="_blank"{{ end }}
      rel="noopener noreferrer external">
-    {{ T "cta_button.get_ticket" }}
+    {{ $ctaLabel }}
     <div class="button__icon">
       {{ partial "graphics/external-link.html" }}
     </div>
@@ -54,7 +57,8 @@
     <noscript>
         {{- partial "inline/cta/link.html" (
             dict
-            "url" (printf "https://www.eventbrite.de/e/%d" $input.eventbriteId)
+            "url"    (printf "https://www.eventbrite.de/e/%d" $input.eventbriteId)
+            "ctaMsg" $input.ctaMsg
             )
         }}
     </noscript>
@@ -62,5 +66,6 @@
     {{ partial "inline/cta/link.html" (dict
         "url"    $input.ctaUrl
         "target" (or $input.target "_blank")
+        "ctaMsg" $input.ctaMsg
     ) }}
 {{- end }}

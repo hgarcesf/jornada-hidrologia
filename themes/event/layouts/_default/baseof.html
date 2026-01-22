@@ -78,7 +78,8 @@
 
                   {{- partial "cta/button.html" (dict
                     "eventbriteId" .Site.Params.themes.event.callToAction.eventbrite.eventId
-                    "ctaUrl" .Site.Params.themes.event.callToAction.other.url
+                    "ctaUrl" .Site.Params.themes.event.callToAction.other.urlForms
+                    "ctaMsg" "Formulario logístico"
                   ) }}
                 </nav>
             </div>
