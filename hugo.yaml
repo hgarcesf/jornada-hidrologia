@@ -36,6 +36,10 @@ languages:
                   pageRef: /guia-presentadores
                   name: Guía para presentadores
                   weight: 30
+#                - identifier: resumen-jornada
+#                  pageRef: /resumen-jornada
+#                  name: Resumen de la Jornada
+#                  weight: 60
             footer:
                 - identifier: imprint
                   pageRef: /imprint
@@ -133,7 +137,7 @@ params:
 #                    eventId: 976108886957
                 other:
                     url: "https://drive.google.com/file/d/1w5VmZ-Lwz8llZg0Xa6hixNjBjw6RHKeh/view?usp=sharing"
-                    urlForms: "https://forms.gle/pAXVSTYbrJkMTPCi9"
+                    urlForms: "/resumen-jornada"
                 enableBanner: true
 #            socialLinks:
 #                xUrl: https://x.com/medialesson
