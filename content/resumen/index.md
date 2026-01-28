@@ -155,7 +155,7 @@ En esta Jornada de Hidrología se instituyó la **medalla "Premio Chileno de Hid
 
 **Figura 8**. Profesora Ximena Vargas recibiendo la medalla "Premio Chileno de Hidrología".
 
-En coherencia con este espíritu de reconocimiento y legado, la medalla Premio Chileno de Hidrología fue diseñada por Stephanie Sería, hidróloga en EFE. La ilustración representa una cuenca hidrográfica como un sistema dinámico e interconectado, parte de un todo que, en la búsqueda de equilibrio, converge sus aguas hacia un punto que nutre, sostiene y posibilita la vida en todas sus formas. Como resultado, el nacimiento de una araucaria, el cual simboliza la dependencia mutua entre agua, territorio y sus comunidades.
+En coherencia con este espíritu de reconocimiento y legado, la medalla Premio Chileno de Hidrología fue diseñada por Stephanie Seria, hidróloga en EFE. La ilustración representa una cuenca hidrográfica como un sistema dinámico e interconectado, parte de un todo que, en la búsqueda de equilibrio, converge sus aguas hacia un punto que nutre, sostiene y posibilita la vida en todas sus formas. Como resultado, el nacimiento de una araucaria, el cual simboliza la dependencia mutua entre agua, territorio y sus comunidades.
 
 <p align="center">
  <img class="event-highlights-section__logo2" src="ilustracion_medalla.jpg" loading="lazy"/>
