@@ -90,7 +90,7 @@ layout: default
 
 Durante el 21 y 23 de Enero de 2026, el Campus Pucón de la Universidad de La Frontera fue el punto de encuentro de la comunidad hidrológica nacional en el marco de la **III Jornada de Hidrología**, una instancia que reafirmó su rol como espacio de articulación entre investigación científica, práctica profesional y gestión pública del agua en Chile.
 
-La actividad fue liderada por el **Dr. Mauricio Zambrano-Bigiarini**, académico del Departamento de Ingeniería de Obras Civiles de la UFRO, y contó con un comité organizador integrado además por el **Dr. Alonso Pizarro** (Universidad Diego Portales), el **Dr. Sebastián Krogh** y el **Dr.(c) Eduardo Muñoz-Castro** (SLF - ETH).
+La actividad fue liderada por el **Dr. Mauricio Zambrano-Bigiarini**, académico del Departamento de Ingeniería de Obras Civiles de la UFRO, y contó con un comité organizador integrado además por el **Dr. Alonso Pizarro** (Universidad Diego Portales), el **Dr. Sebastián Krogh** (Universidad de Concepción) y el **Dr.(c) Eduardo Muñoz-Castro** (SLF - ETH).
 
 En un contexto marcado por una alta variabilidad climática, sequías persistentes y un aumento en la recurrencia de eventos hidrometeorológicos extremos, la hidrología se posiciona como una disciplina estratégica para la toma de decisiones informadas. En este escenario, la III Jornada de Hidrología reunió a investigadores(as), profesionales del sector público y privado, y estudiantes de pre y postgrado provenientes de distintas regiones del país, generando un espacio de intercambio transversal y colaborativo.
 
@@ -100,7 +100,7 @@ El programa científico incluyó sesiones temáticas sobre eventos extremos, hid
  <img class="event-highlights-section__logo2" src="Dra_Camila_Alvarez_Garreton.jpg" style="width:1920px;"/>
 </p>
 
-**Figura 1**. Dra. Camila Álvarez-Garretón durante su charla magistral.
+**Figura 4**. Dra. Camila Álvarez-Garretón durante su charla magistral, titulada "Seguridad hídrica en Chile: caracterización y perspectivas de futuro".
 
 
 Como parte fundamental de la Jornada, se desarrollaron **tres cursos especializados**, orientados a fortalecer capacidades técnicas y profesionales en distintas áreas de la gestión hídrica. El **Curso 1**, titulado *GIRH, Resiliencia y Seguridad Hídrica: Cómo reconciliar conceptos en la gestión real de las cuencas*, fue impartido por la **Dra. Pilar Barría**, académica de la Universidad de Chile.
@@ -112,7 +112,7 @@ El **Curso 2a**, *Excelencia en medición hidrométrica: de la teoría a la prá
  <img class="event-highlights-section__logo2" src="Diego_Ojeda_Montgomery.jpg" style="width:1920px;"/>
 </p>
 
-**Figura 2**. Ingeniero Jorge Labra (imagen superior) e Ingeniero Diego Ojeda (imagen inferior) presentando sus cursos.
+En esta Jornada de Hidrología se instituyó la medalla "Premio Chileno de Hidrología", orientada a reconocer la trayectoria profesional y el aporte a la comunidad hidrológica nacional. En su primera versión, la medalla fue otorgada a la profesora Ximena Vargas Mesa (Universidad de Chile), destacada académica que, en palabras de sus propios alumnos y colaboradores, ha dejado una huella imborrable en la historia de la hidrología de Chile y en los profesionales que ha formado.
 
 Uno de los momentos más valorados por las y los participantes fue la concurrida salida a terreno, orientada a conocer en detalle el entorno natural y los puntos de monitoreo que sustentan el estudio hidrológico en la cuenca del **Río Trancura antes de Llafenco**. La actividad comenzó en el Campus Pucón de la UFRO y se trasladó hasta **PuAm Ecolodge**, donde se visitaron una estación meteorológica y una estación de monitoreo de humedad del suelo.
 
