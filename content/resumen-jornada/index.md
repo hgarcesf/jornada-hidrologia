@@ -90,14 +90,33 @@ layout: default
 
 Durante el 21 y 23 de Enero de 2026, el Campus Pucón de la Universidad de La Frontera fue el punto de encuentro de la comunidad hidrológica nacional en el marco de la **III Jornada de Hidrología**, una instancia que reafirmó su rol como espacio de articulación entre investigación científica, práctica profesional y gestión pública del agua en Chile.
 
+<p align="center">
+ <img class="event-highlights-section__logo2" src="asistentes_a_Jornada.jpg" loading="lazy"/>
+</p>
+
+**Figura 1**. Participantes de la III Jornada de Hidrología.
+
 La actividad fue liderada por el **Dr. Mauricio Zambrano-Bigiarini**, académico del Departamento de Ingeniería de Obras Civiles de la UFRO, y contó con un comité organizador integrado además por el **Dr. Alonso Pizarro** (Universidad Diego Portales), el **Dr. Sebastián Krogh** (Universidad de Concepción) y el **Dr.(c) Eduardo Muñoz-Castro** (SLF - ETH).
 
+<p align="center">
+ <img class="event-highlights-section__logo2" src="comite_organizador.jpg" loading="lazy"/>
+</p>
+
+**Figura 2**. Comité organizador de la III Jornada de Hidrología.
+
+
 En un contexto marcado por una alta variabilidad climática, sequías persistentes y un aumento en la recurrencia de eventos hidrometeorológicos extremos, la hidrología se posiciona como una disciplina estratégica para la toma de decisiones informadas. En este escenario, la III Jornada de Hidrología reunió a investigadores(as), profesionales del sector público y privado, y estudiantes de pre y postgrado provenientes de distintas regiones del país, generando un espacio de intercambio transversal y colaborativo.
+
+<p align="center">
+ <img class="event-highlights-section__logo2" src="profesores_jornada.jpeg" loading="lazy"/>
+</p>
+
+**Figura 3**. Profesores que participaron durante el evento.
 
 El programa científico incluyó sesiones temáticas sobre eventos extremos, hidrología de montaña, hidroinformática y diseño hidrológico, además de presentaciones orales, sesiones de pósters y charlas magistrales. Entre estas últimas destacó la conferencia **“Seguridad hídrica en Chile: caracterización y perspectivas de futuro”**, dictada por la Dra. Camila Álvarez Garretón, investigadora del Centro de Ciencia del Clima y la Resiliencia (CR2), quien abordó los principales desafíos y escenarios futuros asociados a la disponibilidad y uso del agua en el país.
 
 <p align="center">
- <img class="event-highlights-section__logo2" src="Dra_Camila_Alvarez_Garreton.jpg" style="width:1920px;"/>
+ <img class="event-highlights-section__logo2" src="Dra_Camila_Alvarez_Garreton.jpg" loading="lazy"/>
 </p>
 
 **Figura 4**. Dra. Camila Álvarez-Garretón durante su charla magistral, titulada "Seguridad hídrica en Chile: caracterización y perspectivas de futuro".
@@ -108,29 +127,38 @@ Como parte fundamental de la Jornada, se desarrollaron **tres cursos especializa
 El **Curso 2a**, *Excelencia en medición hidrométrica: de la teoría a la práctica con baja incertidumbre*, estuvo a cargo de **Jorge Labra**, representante de **AQUAFLOW**, mientras que el **Curso 2b**, enfocado en la *estimación de recursos hídricos en proyectos de litio*, fue dictado por **Diego Ojeda**, de **Montgomery & Associates Chile**. Estas instancias formativas tuvieron una alta convocatoria y destacaron por su enfoque aplicado y su conexión directa con problemáticas reales del sector.
 
 <p align="center">
- <img class="event-highlights-section__logo2" src="Jorge_Labra_AquaFlow.jpg" style="width:1920px;"/>
- <img class="event-highlights-section__logo2" src="Diego_Ojeda_Montgomery.jpg" style="width:1920px;"/>
+ <img class="event-highlights-section__logo2" src="Jorge_Labra_AquaFlow.jpg" loading="lazy"/>
+ <img class="event-highlights-section__logo2" src="Diego_Ojeda_Montgomery.jpg" loading="lazy"/>
 </p>
+
+**Figura 5**. Ingeniero Jorge Labra (imagen superior) e Ingeniero Diego Ojeda (imagen inferior) presentando sus cursos.
 
 En esta Jornada de Hidrología se instituyó la medalla "Premio Chileno de Hidrología", orientada a reconocer la trayectoria profesional y el aporte a la comunidad hidrológica nacional. En su primera versión, la medalla fue otorgada a la profesora Ximena Vargas Mesa (Universidad de Chile), destacada académica que, en palabras de sus propios alumnos y colaboradores, ha dejado una huella imborrable en la historia de la hidrología de Chile y en los profesionales que ha formado.
 
-Uno de los momentos más valorados por las y los participantes fue la concurrida salida a terreno, orientada a conocer en detalle el entorno natural y los puntos de monitoreo que sustentan el estudio hidrológico en la cuenca del **Río Trancura antes de Llafenco**. La actividad comenzó en el Campus Pucón de la UFRO y se trasladó hasta **PuAm Ecolodge**, donde se visitaron una estación meteorológica y una estación de monitoreo de humedad del suelo.
-
-El recorrido incluyó un trekking por vegetación nativa, permitiendo a las y los asistentes observar directamente las condiciones locales que influyen en los procesos hidrológicos. Durante la salida se realizaron además mediciones simples en terreno, como ensayos de infiltración, con el objetivo de ilustrar cómo se manifiesta el comportamiento del agua a escala local y su relación con la modelación hidrológica.
-
 <p align="center">
- <img class="event-highlights-section__logo2" src="trekking_terreno_Trancura.jpg" style="width:1920px;"/>
- <img class="event-highlights-section__logo2" src="break_para_almuerzo_Trancura.jpg" style="width:1920px;"/>
- <img class="event-highlights-section__logo2" src="estacion_meteorologica_PuAmEcolodge.jpg" style="width:1920px;"/>
+ <img class="event-highlights-section__logo2" src="profesora_Ximena_Vargas_recibiendo_medalla.jpg" loading="lazy"/>
 </p>
 
-**Figura 3**. Participantes de la salida a terreno en PuAm Ecolodge.
+**Figura 6**. Profesora Ximena Vargas recibiendo la medalla "Premio Chileno de Hidrología".
+
+
+Uno de los momentos más valorados por las y los participantes fue la concurrida salida a terreno, orientada a conocer en detalle el entorno natural y los puntos de monitoreo que sustentan el estudio hidrológico en la cuenca del **Río Trancura antes de Llafenco**. La actividad comenzó en el Campus Pucón de la UFRO y se trasladó hasta **PuAm Ecolodge**, donde se visitaron una estación meteorológica y una estación de monitoreo de humedad del suelo.
+
+<p align="center">
+ <img class="event-highlights-section__logo2" src="trekking_terreno_Trancura.jpg" loading="lazy"/>
+ <img class="event-highlights-section__logo2" src="break_para_almuerzo_Trancura.jpg" loading="lazy"/>
+ <img class="event-highlights-section__logo2" src="estacion_meteorologica_PuAmEcolodge.jpg" loading="lazy"/>
+</p>
+
+**Figura 7**. Participantes de la salida a terreno en PuAm Ecolodge.
+
+
+El recorrido incluyó un trekking por vegetación nativa, permitiendo a las y los asistentes observar directamente las condiciones locales que influyen en los procesos hidrológicos. Durante la salida se realizaron además mediciones simples en terreno, como ensayos de infiltración, con el objetivo de ilustrar cómo se manifiesta el comportamiento del agua a escala local y su relación con la modelación hidrológica.
 
 <div class="video-embed">
   <div class="video-embed__ratio">
     <iframe
       src="https://www.youtube.com/embed/xyzkt6zGCjI?si=rYOgptkDfT3OPnkS"
-      title="YouTube video player"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
       allowfullscreen
       loading="lazy">
