@@ -124,6 +124,12 @@ El programa científico incluyó sesiones temáticas sobre eventos extremos, hid
 
 Como parte fundamental de la Jornada, se desarrollaron **tres cursos especializados**, orientados a fortalecer capacidades técnicas y profesionales en distintas áreas de la gestión hídrica. El **Curso 1**, titulado *GIRH, Resiliencia y Seguridad Hídrica: Cómo reconciliar conceptos en la gestión real de las cuencas*, fue impartido por la **Dra. Pilar Barría**, académica de la Universidad de Chile.
 
+<p align="center">
+ <img class="event-highlights-section__logo2" src="Dra_Pilar_Barria.jpg" loading="lazy"/>
+</p>
+
+**Figura 5**. Dra. Pilar Barría impartiendo el Curso 1.
+
 El **Curso 2a**, *Excelencia en medición hidrométrica: de la teoría a la práctica con baja incertidumbre*, estuvo a cargo de **Jorge Labra**, representante de **AQUAFLOW**, mientras que el **Curso 2b**, enfocado en la *estimación de recursos hídricos en proyectos de litio*, fue dictado por **Diego Ojeda**, de **Montgomery & Associates Chile**. Estas instancias formativas tuvieron una alta convocatoria y destacaron por su enfoque aplicado y su conexión directa con problemáticas reales del sector.
 
 <p align="center">
@@ -131,15 +137,31 @@ El **Curso 2a**, *Excelencia en medición hidrométrica: de la teoría a la prá
  <img class="event-highlights-section__logo2" src="Diego_Ojeda_Montgomery.jpg" loading="lazy"/>
 </p>
 
-**Figura 5**. Ingeniero Jorge Labra (imagen superior) e Ingeniero Diego Ojeda (imagen inferior) presentando sus cursos.
+**Figura 6**. Ingeniero Jorge Labra (imagen superior) e Ingeniero Diego Ojeda (imagen inferior) presentando sus cursos.
 
-En esta Jornada de Hidrología se instituyó la medalla "Premio Chileno de Hidrología", orientada a reconocer la trayectoria profesional y el aporte a la comunidad hidrológica nacional. En su primera versión, la medalla fue otorgada a la profesora Ximena Vargas Mesa (Universidad de Chile), destacada académica que, en palabras de sus propios alumnos y colaboradores, ha dejado una huella imborrable en la historia de la hidrología de Chile y en los profesionales que ha formado.
+Como parte de las actividades de reflexión colectiva, se desarrolló una **discusión participativa titulada "¿Existe (o no) la necesidad de crear una Asociación Chilena de Hidrología?"**, dirigida por el Dr. Francisco Salinas (Universidad Alberto Hurtado) y el Dr. (c) Eduardo Muñoz. Esta instancia tuvo como objetivo abrir un espacio de diálogo informado respecto a la eventual institucionalización de una asociación nacional que represente a la comunidad hidrológica del país. Para ello, las y los participantes fueron organizados en grupos según su ámbito de pertenencia: estudiantes, sector público, sector privado y academia, con el fin de recoger distintas miradas, necesidades y expectativas en torno al rol, alcances y pertinencia de una organización de este tipo.
+
+<p align="center">
+ <img class="event-highlights-section__logo2" src="Dr_Francisco_Salinas.jpg" loading="lazy"/>
+</p>
+
+**Figura 7**. Dr. Francisco Salinas liderando la discusión participativa.
+
+En esta Jornada de Hidrología se instituyó la **medalla "Premio Chileno de Hidrología"**, orientada a reconocer la trayectoria profesional y el aporte a la comunidad hidrológica nacional. En su primera versión, la medalla fue otorgada a la profesora Ximena Vargas Mesa (Universidad de Chile), destacada académica que, en palabras de sus propios alumnos y colaboradores, ha dejado una huella imborrable en la historia de la hidrología de Chile y en los profesionales que ha formado.
 
 <p align="center">
  <img class="event-highlights-section__logo2" src="profesora_Ximena_Vargas_recibiendo_medalla.jpg" loading="lazy"/>
 </p>
 
-**Figura 6**. Profesora Ximena Vargas recibiendo la medalla "Premio Chileno de Hidrología".
+**Figura 8**. Profesora Ximena Vargas recibiendo la medalla "Premio Chileno de Hidrología".
+
+En coherencia con este espíritu de reconocimiento y legado, la medalla Premio Chileno de Hidrología fue diseñada por Stephanie Sería, hidróloga en EFE. La ilustración representa una cuenca hidrográfica como un sistema dinámico e interconectado, parte de un todo que, en la búsqueda de equilibrio, converge sus aguas hacia un punto que nutre, sostiene y posibilita la vida en todas sus formas. Como resultado, el nacimiento de una araucaria, el cual simboliza la dependencia mutua entre agua, territorio y sus comunidades.
+
+<p align="center">
+ <img class="event-highlights-section__logo2" src="ilustracion_medalla.jpg" loading="lazy"/>
+</p>
+
+**Figura 9**. Ilustración de la medalla "Premio Chileno de Hidrología".
 
 
 Uno de los momentos más valorados por las y los participantes fue la concurrida salida a terreno, orientada a conocer en detalle el entorno natural y los puntos de monitoreo que sustentan el estudio hidrológico en la cuenca del **Río Trancura antes de Llafenco**. La actividad comenzó en el Campus Pucón de la UFRO y se trasladó hasta **PuAm Ecolodge**, donde se visitaron una estación meteorológica y una estación de monitoreo de humedad del suelo.
@@ -150,7 +172,7 @@ Uno de los momentos más valorados por las y los participantes fue la concurrida
  <img class="event-highlights-section__logo2" src="estacion_meteorologica_PuAmEcolodge.jpg" loading="lazy"/>
 </p>
 
-**Figura 7**. Participantes de la salida a terreno en PuAm Ecolodge.
+**Figura 10**. Participantes de la salida a terreno en PuAm Ecolodge.
 
 
 El recorrido incluyó un trekking por vegetación nativa, permitiendo a las y los asistentes observar directamente las condiciones locales que influyen en los procesos hidrológicos. Durante la salida se realizaron además mediciones simples en terreno, como ensayos de infiltración, con el objetivo de ilustrar cómo se manifiesta el comportamiento del agua a escala local y su relación con la modelación hidrológica.
