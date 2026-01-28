@@ -34,36 +34,34 @@ layout: default
   margin-bottom: 0.3rem;
 }
 
-.event-highlights-section__logo2 {
-  flex: 1 1 300px;
-  max-width: 45rem;
-  max-height: 25rem;
-  width: auto;
-  height: auto;
+.img-center{
+  text-align: center;
+  margin: 1.25rem auto;
+}
+
+.event-highlights-section__logo2{
   display: block;
+  width: 100%;
+  max-width: 45rem;
+  height: auto;
   margin: 0 auto;
   border-radius: 0.5rem;
   box-shadow: 0 2px 6px rgba(0,0,0,0.1);
 }
-/* .event-highlights-section__logo2 {
-    max-width: 25rem;
+
+@media (min-width: 769px){
+  .event-highlights-section__logo2{
     max-height: 25rem;
     width: auto;
-    height: auto;
-} */
-/* @media (max-width: 768px) {
-  .section-container {
-    flex-direction: column;
-    text-align: center;
   }
-  .section-text {
-    order: 2;
+}
+
+@media (max-width: 768px){
+  .event-highlights-section__logo2{
+    max-height: none;
+    width: 100%;
   }
-  .event-highlights-section__logo2 {
-    order: 1;
-    margin-bottom: 1.5rem;
-  }
-} */
+}
 </style>
 
 # Resumen de la III Jornada de Hidrología
