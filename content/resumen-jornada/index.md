@@ -62,6 +62,28 @@ layout: default
     width: 100%;
   }
 }
+.video-embed{
+  width: 100%;
+  max-width: 45rem;
+  margin: 1.25rem auto;
+}
+
+.video-embed__ratio{
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border-radius: 0.5rem;
+  overflow: hidden;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.video-embed__ratio iframe{
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
 </style>
 
 # Resumen de la III Jornada de Hidrología
@@ -104,6 +126,17 @@ El recorrido incluyó un trekking por vegetación nativa, permitiendo a las y lo
 
 **Figura 3**. Participantes de la salida a terreno en PuAm Ecolodge.
 
+<div class="video-embed">
+  <div class="video-embed__ratio">
+    <iframe
+      src="https://www.youtube.com/embed/xyzkt6zGCjI?si=rYOgptkDfT3OPnkS"
+      title="YouTube video player"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen
+      loading="lazy">
+    </iframe>
+  </div>
+</div>
 
 La organización de la III Jornada de Hidrología agradeció especialmente el **apoyo financiero** de **AQUAFLOW**, **Montgomery & Associates Chile**, **Vertientes** y **IECOM**, cuyo respaldo fue clave para la realización de esta instancia.
 
